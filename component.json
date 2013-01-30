@@ -1,0 +1,8 @@
+{
+    "name": "jquery-timeslider"
+  , "version": "0.0.1"
+  , "dependencies": {
+      "jquery": ">= 1.9.0"
+    , "moment": ">= 1.7.2"
+  }
+}
